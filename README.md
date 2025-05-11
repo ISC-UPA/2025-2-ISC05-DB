@@ -27,4 +27,4 @@ git pull
 
 ## 🔗 Referencias
 - 📘 **Schemas de DB**: [Esquemas](./schemas)
-- [📄 Formato Examen](./Contenido/DB Formato Examen SQL.pdf): Formato de entrega.
+- [📄 Formato Examen](../Contenido/DB_Formato_Examen_SQL.pdf): Formato de entrega.
