@@ -31,7 +31,7 @@ git pull
 
 Ir a [Oracle Academy](https://academy.oracle.com)  
 Recuerda la pagina de Oracle: `https://academy.oracle.com`  
-Recuerda la pagina de git: &nbsp;&nbsp;&nbsp;&nbsp; `https://github.com/ISC-UPA/2025-2-ISC05-DB`  
+Recuerda la pagina de git: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `https://github.com/ISC-UPA/2025-2-ISC05-DB`  
 
 
 
