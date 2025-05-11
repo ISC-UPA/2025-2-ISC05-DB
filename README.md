@@ -33,6 +33,7 @@ Abre tu curso de Oracle Academy en `https://academy.oracle.com` para ver la docu
 Pagina de Oracle Academy: 
 
 Ir a [Oracle Academy](https://academy.oracle.com)  
-Recuerda la pagina de git: `https://github.com/ISC-UPA/2025-2-ISC05-DB` 
+Recuerda la pagina de git: `https://github.com/ISC-UPA/2025-2-ISC05-DB`   
 Recuerda la pagina de Oracle: `https://academy.oracle.com`  
+  
 
