@@ -29,11 +29,9 @@ git pull
 - 📘 **Schemas de DB**: [Esquemas](./schemas)
 - [📄 Formato Examen](Contenido/DB_Formato_Examen_SQL.pdf): Formato de entrega.
 
-Abre tu curso de Oracle Academy en `https://academy.oracle.com` para ver la documentación.
-Pagina de Oracle Academy: 
-
 Ir a [Oracle Academy](https://academy.oracle.com)  
 Recuerda la pagina de Oracle: `https://academy.oracle.com`  
-Recuerda la pagina de git &nbsp;&nbsp;&nbsp;&nbsp; : `https://github.com/ISC-UPA/2025-2-ISC05-DB`  
+Recuerda la pagina de git: &nbsp;&nbsp;&nbsp;&nbsp; `https://github.com/ISC-UPA/2025-2-ISC05-DB`  
+
 
 
