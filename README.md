@@ -5,8 +5,8 @@ Este repositorio es parte del curso de **Base de Datos**. Aquí encontrarás eje
 
 ## 📂 Contenido del Repositorio
 
-1. 📄 **schemas**: Bases de datos en Access, MySQL, Oracle
-2. 💻 ** SQL**: Aplicación de consultas.
+1. 📄 **`schemas`**: Bases de datos en Access, MySQL, Oracle
+2. 💻 **SQL**: Aplicación de consultas.
 
 ## 🛠️ Instalación
 - 🐙 **Git**: [Descargar Git](https://git-scm.com/)
@@ -33,7 +33,6 @@ Abre tu curso de Oracle Academy en `https://academy.oracle.com` para ver la docu
 Pagina de Oracle Academy: 
 
 Ir a [Oracle Academy](https://academy.oracle.com)  
-Recuerda la pagina de git: `https://github.com/ISC-UPA/2025-2-ISC05-DB`   
 Recuerda la pagina de Oracle: `https://academy.oracle.com`  
-  
+Recuerda la pagina de git   : `https://github.com/ISC-UPA/2025-2-ISC05-DB`  
 
