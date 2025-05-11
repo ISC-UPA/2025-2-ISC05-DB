@@ -5,6 +5,8 @@ git add .
 git commit -m "Automatico"
 git push
 pause
+cls
+
 
 
 
