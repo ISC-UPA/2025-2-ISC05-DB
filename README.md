@@ -5,8 +5,8 @@ Este repositorio es parte del curso de **Base de Datos**. Aquí encontrarás eje
 
 ## 📂 Contenido del Repositorio
 
-- 📄 **schemas**: Bases de datos en Access, MySQL, Oracle
-- 💻 ** SQL**: Aplicación de consultas.
+1. 📄 **schemas**: Bases de datos en Access, MySQL, Oracle
+2. 💻 ** SQL**: Aplicación de consultas.
 
 ## 🛠️ Instalación
 - 🐙 **Git**: [Descargar Git](https://git-scm.com/)
@@ -28,3 +28,5 @@ git pull
 ## 🔗 Referencias
 - 📘 **Schemas de DB**: [Esquemas](./schemas)
 - [📄 Formato Examen](Contenido/DB_Formato_Examen_SQL.pdf): Formato de entrega.
+
+Abre tu curso de Oracle Academy en `https://academy.oracle.com` para ver la documentación.
