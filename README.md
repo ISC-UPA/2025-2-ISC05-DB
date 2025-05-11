@@ -11,7 +11,7 @@ Para obtener una copia local del proyecto, ejecuta el siguiente comando en tu te
 ```bash
 git clone https://github.com/ISC-UPA/2025-2-ISC05-DB.git
 ```
-Para bajar las actualizacoines,  ejecuta el siguiente comando en tu terminal:
+Para bajar las actualizaciones,  ejecuta el siguiente comando en tu terminal:
 ```bash
 git pull
 ```  
