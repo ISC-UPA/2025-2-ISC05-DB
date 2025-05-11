@@ -1,0 +1,15 @@
+# Directorios 
+Personal/
+personal/
+docs/_build/
+
+# Archivos
+.env
+*.docx
+_Notas*.txt
+_notas*.txt
+
+
+
+
+
