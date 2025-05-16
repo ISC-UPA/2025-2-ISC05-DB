@@ -7,7 +7,7 @@ git push
 pause
 cls
 
-
+rem net stop OracleXETNSListener
 
 
 
