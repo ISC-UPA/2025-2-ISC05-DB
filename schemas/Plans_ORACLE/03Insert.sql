@@ -41,4 +41,6 @@ Insert into EMPPRO (EMPNO,PRONO,HOURS) values (7654,1008,5);
 Insert into EMPPRO (EMPNO,PRONO,HOURS) values (7844,1005,6);
 Insert into EMPPRO (EMPNO,PRONO,HOURS) values (7934,1001,4);
 
+COMMIT;
+commit;
 
