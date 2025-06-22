@@ -1,0 +1,61 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="1D460EF5-61FA-9C5E-2B33-BC6FA08C1B75" name="AUTHOR BOOK">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 22:58:34 UTC</createdTime>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="BOOK_ID" id="6E11B5A8-4B62-30B4-4994-D24F1E412005">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 23:03:15 UTC</createdTime>
+<generatorID>518DC729-9588-D51D-9F84-6E933FFA754C</generatorID>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<referedAttribute>690EDDA3-BB29-8C4F-E85A-8B03CFB6B340</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID" id="54B217D0-5999-F465-D552-BD16AC396616">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 23:03:58 UTC</createdTime>
+<generatorID>FA5E4DFF-B426-D20E-637A-2A6ABE439FE0</generatorID>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<referedAttribute>95D88087-B726-9D78-EFDD-458318B7B685</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="634B6969-EF24-0B91-DF25-4060F71C24B2" name="AUTHOR BOOK PK">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 23:03:22 UTC</createdTime>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>6E11B5A8-4B62-30B4-4994-D24F1E412005</attributeRef>
+<attributeRef>54B217D0-5999-F465-D552-BD16AC396616</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

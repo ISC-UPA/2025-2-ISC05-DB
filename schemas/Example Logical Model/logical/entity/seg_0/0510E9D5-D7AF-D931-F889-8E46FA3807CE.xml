@@ -1,0 +1,32 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="0510E9D5-D7AF-D931-F889-8E46FA3807CE" name="Faculty">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 22:27:51 UTC</createdTime>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Description" id="865B1B47-16C8-B4F4-136B-38D4FF504CBC">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 22:28:17 UTC</createdTime>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

@@ -1,0 +1,58 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="B70A297F-EAF6-4017-4467-0CFEA21941D3" name="STUDENT">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 22:35:00 UTC</createdTime>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID" id="507F0D01-DAF4-9955-082A-0BA190044736">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 22:35:18 UTC</createdTime>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="last name" id="EFDDC380-B597-2A4A-3235-51EEA128D014">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 22:35:57 UTC</createdTime>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="67DB04A4-1AFB-3C47-5593-D085B024336F" name="STUEDENT PK">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 22:35:54 UTC</createdTime>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>507F0D01-DAF4-9955-082A-0BA190044736</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

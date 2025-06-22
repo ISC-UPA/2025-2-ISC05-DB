@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="MEM_STU" directorySegmentName="seg_0" id="ABD02AED-037B-2A0B-0B77-77FAB1D4B4C7">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 22:43:26 UTC</createdTime>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<sourcePk>67DB04A4-1AFB-3C47-5593-D085B024336F</sourcePk>
+<arc>908C0587-F01A-458A-07A6-9BC0496DB9C0</arc>
+<identifying>false</identifying>
+<nameOnSource>Hold</nameOnSource>
+<nameOnTarget>Held by</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>B70A297F-EAF6-4017-4467-0CFEA21941D3</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>171A52A5-1BAB-86F5-9A4D-0319663186F9</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

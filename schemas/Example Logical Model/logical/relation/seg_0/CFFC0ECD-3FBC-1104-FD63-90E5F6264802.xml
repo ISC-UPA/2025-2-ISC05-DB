@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="BOOK_PUB" directorySegmentName="seg_0" id="CFFC0ECD-3FBC-1104-FD63-90E5F6264802">
+<createdBy>carlo</createdBy>
+<createdTime>2025-06-22 20:55:10 UTC</createdTime>
+<ownerDesignName>Example Logical Model</ownerDesignName>
+<engineerTo>
+<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
+</engineerTo>
+<sourceTransferable>false</sourceTransferable>
+<sourcePk>2FF19B2A-608F-F7F4-02E8-525577288A76</sourcePk>
+<identifying>false</identifying>
+<nameOnSource>Publish</nameOnSource>
+<nameOnTarget>Published by</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>E4EAD0B5-5B7A-9024-4924-C5B1AB73151A</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>A62EA521-F6FF-D64A-808D-C2605FCDC0F7</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
