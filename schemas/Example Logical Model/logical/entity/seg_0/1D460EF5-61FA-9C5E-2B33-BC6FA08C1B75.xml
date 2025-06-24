@@ -29,10 +29,10 @@
 <logicalDatatype>LOGDT024</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="ID" id="54B217D0-5999-F465-D552-BD16AC396616">
+<Attribute name="ID" id="2AB8C3D8-221F-B4DB-07E4-B7F93A3CC931">
 <createdBy>carlo</createdBy>
-<createdTime>2025-06-22 23:03:58 UTC</createdTime>
-<generatorID>FA5E4DFF-B426-D20E-637A-2A6ABE439FE0</generatorID>
+<createdTime>2025-06-23 17:40:16 UTC</createdTime>
+<generatorID>BA365821-1E77-2A42-99B7-45D0B32EABFB</generatorID>
 <ownerDesignName>Example Logical Model</ownerDesignName>
 <engineerTo>
 <item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
@@ -54,7 +54,7 @@
 <pk>true</pk>
 <usedAttributes>
 <attributeRef>6E11B5A8-4B62-30B4-4994-D24F1E412005</attributeRef>
-<attributeRef>54B217D0-5999-F465-D552-BD16AC396616</attributeRef>
+<attributeRef>2AB8C3D8-221F-B4DB-07E4-B7F93A3CC931</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

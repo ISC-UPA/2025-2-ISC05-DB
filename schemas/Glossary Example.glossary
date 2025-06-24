@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<cwd_glossary name="Example Logical Model" description="generated from logical model of design Example Logical Model" id="B6B0338D-3BA6-F70C-0512-101B5E948E7D" incomplete_modifiers="true" >
+
+   <glossaryWord name="AUTHOR" plural="" abbreviation="ATR" alt_abbreviation="" id="81F0B271-124A-EA7F-43FA-7150B50F1E9D" import_id="" description="" />
+   <glossaryWord name="BOOK" plural="BOOKS" abbreviation="BOO" alt_abbreviation="" id="8A47BCEE-BE41-B308-A8CC-8714F8A0A3E6" import_id="" description="" />
+   <glossaryWord name="BOOK_ID" plural="" abbreviation="" alt_abbreviation="" id="B228C5F6-C9DF-A64B-4F22-BCD4B4B4D18C" import_id="" description="" />
+   <glossaryWord name="Description" plural="" abbreviation="DSC" alt_abbreviation="" id="A01B5F6B-5A89-9465-EA3C-740B588ADE55" import_id="" description="" />
+   <glossaryWord name="EMPLOYEE" plural="EMPLOYEES" abbreviation="EMP" alt_abbreviation="" id="378FAC30-5747-E406-0BB7-054FE4817127" import_id="" description="" />
+   <glossaryWord name="Entity_7" plural="" abbreviation="" alt_abbreviation="" id="6E3B1E51-84A5-B255-7B6C-F9634D5D0978" import_id="" description="" />
+   <glossaryWord name="FULL" plural="" abbreviation="FUL" alt_abbreviation="" id="32231D3C-253A-F5E2-AF10-44E243C58A2D" import_id="" description="" />
+   <glossaryWord name="Faculty" plural="" abbreviation="" alt_abbreviation="" id="96F768C0-4246-738E-2F16-7A1883676826" import_id="" description="" />
+   <glossaryWord name="ID" plural="" abbreviation="" alt_abbreviation="" id="D2036325-ED5E-B2B5-3C60-21102F07C920" import_id="" description="" />
+   <glossaryWord name="Last" plural="" abbreviation="LST" alt_abbreviation="" id="3E8C266C-8535-C7AB-F75F-2E5C26BB7C30" import_id="" description="" />
+   <glossaryWord name="MEMBER" plural="" abbreviation="MBR" alt_abbreviation="" id="235589F3-4004-15F5-9806-04F318A443C9" import_id="" description="" />
+   <glossaryWord name="Name" plural="" abbreviation="" alt_abbreviation="" id="558FB121-3698-C0FE-EBA7-3E373E5B7932" import_id="" description="" />
+   <glossaryWord name="PART" plural="" abbreviation="PAT" alt_abbreviation="" id="285A7514-3A2E-BC28-3BCC-F8EDFE0546B4" import_id="" description="" />
+   <glossaryWord name="PK" plural="" abbreviation="" alt_abbreviation="" id="D7E978C2-99CE-543B-2396-EE25E34A6174" import_id="" description="" />
+   <glossaryWord name="PUBLISHER" plural="" abbreviation="" alt_abbreviation="" id="B71E03C9-228A-1733-BD21-00AC20DAC436" import_id="" description="" />
+   <glossaryWord name="PUBLISHER_ID" plural="" abbreviation="" alt_abbreviation="" id="6495C2F7-B9A6-CC4E-6CAD-31271764E1DA" import_id="" description="" />
+   <glossaryWord name="STUDENT" plural="" abbreviation="" alt_abbreviation="" id="5F465231-FF92-16C5-3EB8-285824C777F4" import_id="" description="" />
+   <glossaryWord name="Student_PK" plural="" abbreviation="" alt_abbreviation="" id="171DCA3A-7556-BFAD-F602-8ABA7D82C180" import_id="" description="" />
+   <glossaryWord name="TIME" plural="" abbreviation="TME" alt_abbreviation="" id="EC5E3968-2773-0D6B-9C22-2D9FE16458E9" import_id="" description="" />
+   <glossaryWord name="TITLE" plural="TITLES" abbreviation="TTL" alt_abbreviation="" id="2C42DB55-7E43-F91B-88D0-48A209D75584" import_id="" description="" />
+   <glossaryWord name="UKv1" plural="" abbreviation="" alt_abbreviation="" id="48594821-3388-243D-0601-3C42658D83A1" import_id="" description="" />
+   <glossaryWord name="emp_type" plural="" abbreviation="" alt_abbreviation="" id="5026FC37-FEDB-1A5D-DE77-93DE2E906494" import_id="" description="" />
+   <glossaryWord name="hourly" plural="" abbreviation="" alt_abbreviation="" id="FA854C9B-841A-AF46-8E22-725BF2FBAEF3" import_id="" description="" />
+   <glossaryWord name="lastName" plural="" abbreviation="" alt_abbreviation="" id="DA4A51FA-D29E-471F-C393-854A069D0879" import_id="" description="" />
+   <glossaryWord name="mng_id" plural="" abbreviation="" alt_abbreviation="" id="B8217E4F-612B-3DD6-108C-1A89416C5D97" import_id="" description="" />
+   <glossaryWord name="rate" plural="" abbreviation="RAT" alt_abbreviation="" id="5027DFD6-CF9A-07A7-4B77-3558D73CB680" import_id="" description="" />
+   <glossaryWord name="salary" plural="" abbreviation="SLY" alt_abbreviation="" id="BD67D7F1-5ACF-CD1E-FD50-DAA73023835F" import_id="" description="" />
+
+</cwd_glossary>

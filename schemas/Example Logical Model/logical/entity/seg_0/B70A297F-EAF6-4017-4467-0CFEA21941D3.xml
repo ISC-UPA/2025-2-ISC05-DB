@@ -42,14 +42,15 @@
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="67DB04A4-1AFB-3C47-5593-D085B024336F" name="STUEDENT PK">
+<identifier id="D471AB46-8F00-B5EE-AAAE-E4712B5D73AF" name="Student_PK">
 <createdBy>carlo</createdBy>
-<createdTime>2025-06-22 22:35:54 UTC</createdTime>
+<createdTime>2025-06-23 17:18:43 UTC</createdTime>
 <ownerDesignName>Example Logical Model</ownerDesignName>
 <engineerTo>
 <item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
 </engineerTo>
 <pk>true</pk>
+<newElementsIDs>507F0D01-DAF4-9955-082A-0BA190044736</newElementsIDs>
 <usedAttributes>
 <attributeRef>507F0D01-DAF4-9955-082A-0BA190044736</attributeRef>
 </usedAttributes>

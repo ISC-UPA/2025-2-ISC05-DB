@@ -40,21 +40,6 @@
 <dataTypeSize>30</dataTypeSize>
 <ownDataTypeParameters>30,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="ID1" id="4D9C0832-4B8C-87A5-77CF-B41EFDEB487C">
-<createdBy>carlo</createdBy>
-<createdTime>2025-06-22 22:43:26 UTC</createdTime>
-<generatorID>ABD02AED-037B-2A0B-0B77-77FAB1D4B4C7</generatorID>
-<ownerDesignName>Example Logical Model</ownerDesignName>
-<engineerTo>
-<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
-</engineerTo>
-<nullsAllowed>true</nullsAllowed>
-<referedAttribute>507F0D01-DAF4-9955-082A-0BA190044736</referedAttribute>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT019</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
 <identifier id="F93C6689-D2E6-D184-5D56-A24226F07C12" name="Entity_7 PK">
