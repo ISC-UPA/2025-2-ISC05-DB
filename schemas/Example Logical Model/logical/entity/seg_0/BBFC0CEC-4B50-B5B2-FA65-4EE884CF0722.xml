@@ -53,18 +53,6 @@
 <logicalDatatype>LOGDT019</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="emp_type" id="4216B7F3-5043-8CC8-6C0C-80FB9560097B">
-<createdBy>carlo</createdBy>
-<createdTime>2025-06-23 19:39:13 UTC</createdTime>
-<ownerDesignName>Example Logical Model</ownerDesignName>
-<engineerTo>
-<item key="3A983E6D-A297-97F1-E3BB-C8C083E51F9E" value="true"/>
-</engineerTo>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT019</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
 <Attribute name="ID1" id="D6A23779-B5B6-9350-A9FF-9BD928731A1A">
 <createdBy>carlo</createdBy>
 <createdTime>2025-06-23 19:52:34 UTC</createdTime>
